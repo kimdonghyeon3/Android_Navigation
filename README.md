@@ -25,6 +25,8 @@ DK GUIDE 는 학교지리에 익숙치 않은 사용자를 위한 네비게이�
 AR 애니메이션 캐릭터를 통해 음성으로 얻을 수 있다.
 
 시연영상 : https://youtu.be/Nrat-Xba-c8
+AR-Navigation 시연 영상 : https://youtu.be/BZWZdZ82R8w
+어플리캐이션 소개 pdf : 최상위 폴더 poster.pdf
 
 맵박스에서 제공하는 튜토리얼을 중심으로 제작되었다.
 참고 : https://docs.mapbox.com/help/tutorials/android-navigation-sdk/
